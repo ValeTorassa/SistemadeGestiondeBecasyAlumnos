@@ -1,0 +1,17 @@
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\bin\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.exe
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\bin\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.deps.json
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\bin\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.runtimeconfig.json
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\bin\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\bin\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.pdb
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias_TorassaColomberoValentin.Form.resources
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\refint\SistemaBecasUniversitarias-TorassaColomberoValentin.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.pdb
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\SistemaBecasUniversitarias-TorassaColomberoValentin.genruntimeconfig.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 9\SistemaBecasUniversitarias-TorassaColomberoValentin\obj\Debug\net6.0-windows\ref\SistemaBecasUniversitarias-TorassaColomberoValentin.dll
